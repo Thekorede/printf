@@ -17,4 +17,4 @@
 14. The flood of print has turned reading into a process of gulping rather than savoring
 
 ## Done by:
-printf group project done by me and my partner Olamiposi Fasina.
+printf group project done by Akorede Hassan and Olamiposi Fasina.
